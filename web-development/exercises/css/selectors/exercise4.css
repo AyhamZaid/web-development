@@ -1,0 +1,26 @@
+ p a{
+	color: green;
+	}/* this is for you to complete */
+
+
+
+
+ul a{
+	color: red;
+}
+
+
+p p p a{
+		background-color: yellow;
+}
+
+ ul > li{
+	font-weight: bold;
+}
+ul ul li{
+color: blue;
+}
+
+ul ul ul{
+	list-style-type: none;
+}

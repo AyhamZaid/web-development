@@ -1,0 +1,40 @@
+
+        /* edit this part */
+        body{
+            background-color: #f0f8ff;
+        }
+        div{
+            width: 75%;
+            min-width: 500px;
+            border:1px solid #333333;
+             margin: 1em;
+        }
+        .News{
+            background-color: white;
+            margin: 0.5em;
+            box-shadow: 1px 5px #111;
+            border-radius: 5px;
+        }
+        #alert{
+            background-color: white;
+            margin: 0.5em;
+            color: red;
+            border:dashed red;
+             box-shadow: 1px 5px red;
+            border-radius: 5px;
+
+        }
+        .ipsum{
+            background-color:#fdca96;
+            font-style: bold;
+            left: 0.5em;
+            right: 0.5em;  
+        }
+
+        .quis{
+            background-color:#fdfd96 ;
+            font-style: bold;
+            left: 0.5em;
+            right: 0.5em;  
+        }
+    
